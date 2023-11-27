@@ -1,0 +1,2 @@
+it access the a keypoints of the body joints through state-of-the-art technology "MediaPipe".
+After accessing the location of the keypoints, it calculates the angle between the body joints like elbow, shoulder, knee etc.
